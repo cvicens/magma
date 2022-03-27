@@ -1,0 +1,22 @@
+[
+    {
+        "type" : "birthday",
+        "date" : "2016-10-19T00:00:00.000000",
+        "title" : "Felicidades SOFIA!!!",
+        "text" : "Muac Muac Muac"
+    },
+    {
+        "type" : "reminder",
+        "date" : "2022-03-24T17:39:59.943749",
+        "ttl" : "1d",
+        "title" : "Lista de la compra",
+        "text" : "Leche, pan, chocolate, ..."
+    },
+    {
+        "type" : "news",
+        "date" : "2022-03-24T17:39:59.943749",
+        "title" : "CO₂, una materia prima filtrada de la atmósfera",
+        "text" : "Señalado por su cara menos amable, esa que asociamos al cambio climático, el CO₂ esconde otras facetas. Este gas no es solo necesario para la vida en el planeta, sino que se ha posicionado como una materia prima que está en la receta de algunas de las soluciones para la descarbonización. Pero que este dato no le confunda: reducir la presencia de CO₂ en el ambiente sigue siendo la meta a conseguir. Una nueva tecnología, la DAC, permite retirarlo de la atmósfera para darle otras vidas útiles.",
+        "url" : "https://native.elmundo.es/2022/03/22re/index.html"
+    }
+]
